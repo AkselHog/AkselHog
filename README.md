@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on creating Python courses for my middle school students.
 - 🌱 I’m currently learning how to use Github and VS Code together.
 - 👯 I’m looking to collaborate on creating good learning experiences for 12-13 year olds with Python and PyGame.
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aksel_punkt_hoegenhaug_hos_gmail_punkt_com
 - 😄 Pronouns: Mr, he, him.
 - ⚡ Fun fact: I have become a teacher...
--->
