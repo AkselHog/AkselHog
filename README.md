@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with anything you may contribute with.
 - 💬 Ask me about sailing, conceptual art, dadaism, experimental electronic music, and performance arts. 
 - 📫 How to reach me: aksel_punkt_hoegenhaug_hos_gmail_punkt_com
-- 😄 Pronouns: Mr, he, him.
+- 😄 Pronouns: He, him.
 - ⚡ Fun fact: I have become a teacher...
