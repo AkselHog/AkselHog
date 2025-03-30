@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on creating Python courses for my middle school students.
-- 🌱 I’m currently learning how to use Github and VS Code together.
+- 🌱 I’m currently figuring out how to move from creating apps for terminal use to adding user interfaces.
 - 👯 I’m looking to collaborate on creating good learning experiences for 12-13 year olds with Python and PyGame.
 - 🤔 I’m looking for help with anything you may contribute with.
 - 💬 Ask me about sailing, conceptual art, dadaism, experimental electronic music, and performance arts. 
